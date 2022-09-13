@@ -32,6 +32,10 @@ header .offer{
 .nav-link{
     color: #000;
 }
+.navbar-toggle .navbar-left {
+    float: left;
+    margin-left: 10px;
+  }
 .logo{
     width: 100px;
     height: 25.50;    
